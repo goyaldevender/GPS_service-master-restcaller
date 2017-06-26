@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\611546133\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\611546133\Documents\GitHub\GPS_service-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_e58f6aaa11aff658f08a17a23a0142a4532af0d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\611546133\.android\build-cache\238434fa695f5a1dfea1126ed520f7cf4d3ee764\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\611546133\Documents\GitHub\GPS_service-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bcca9c640edd0be15dd1a188e5e43c69eb5a9edb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\611546133\.android\build-cache\238434fa695f5a1dfea1126ed520f7cf4d3ee764\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\611546133\Documents\GitHub\GPS_service-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_3da8967529349d97cdde1bbaccafb1859bb9d77d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\611546133\.android\build-cache\2554a16fd1c8412464cb12f626b592a951dbe406\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\611546133\Documents\GitHub\GPS_service-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13ad69be3aa66c2a53824059ea3a032ce610e354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\611546133\.android\build-cache\8daf9f9ab3d9b8beeef4344973390d4720e39a00\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\611546133\Documents\GitHub\GPS_service-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9baa2431aa32ae3331e88d6271331bdfbdaddee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\611546133\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="C:\Users\611546133\Documents\GitHub\GPS_service-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.1_a3b08c11862585b2a334270f567457861f6b8ab4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\611546133\Documents\GitHub\GPS_service-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca1be8b0b8ad601b8629a0e634e123943d8fbec3">
+        <dex dex="C:\Users\611546133\Documents\GitHub\GPS_service-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5ea011dd66b5c29ab933ebc0162442b89f390756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\611546133\.android\build-cache\2133f9c7068558bb536193494176210161306c8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\611546133\Documents\GitHub\GPS_service-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_276037b19b2dfee5dbf0ed00b107aa9de31d7aaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\611546133\Documents\GitHub\GPS_service-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\611546133\Documents\GitHub\GPS_service-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f5a9cc4945ccf01382382c766c3a097551751aa6\classes.dex" />
+    </item>
+
+</items>
