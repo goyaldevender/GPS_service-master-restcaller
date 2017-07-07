@@ -10,22 +10,24 @@
     tools:context="testing.gps_service.MainActivity">
 
     <Button
+        android:id="@+id/button"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Start Service"
-        android:id="@+id/button"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:text="Start Service" />
 
     <Button
+        android:id="@+id/button2"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Stop Service"
-        android:id="@+id/button2"
-        android:layout_alignTop="@+id/button"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignTop="@+id/button"
+        android:text="Stop Service" />
 
     <ScrollView
         android:layout_width="wrap_content"
@@ -38,11 +40,13 @@
         android:clickable="true">
 
         <TextView
+            android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textAppearance="?android:attr/textAppearanceLarge"
             android:text="Coordinates: "
-            android:id="@+id/textView" />
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textStyle="bold" />
     </ScrollView>
 
 </RelativeLayout>
